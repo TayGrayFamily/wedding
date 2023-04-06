@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: http://taygrayfamily.github.io/
+      url: http://taygrayfamily.github.io/wedding
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
