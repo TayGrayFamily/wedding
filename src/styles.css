@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Wedding";   /*Can be any text*/
+    src: local("AirbnbCerealLight"),
+    url("src/fonts/dreamland.ttf") format("truetype");
+}
